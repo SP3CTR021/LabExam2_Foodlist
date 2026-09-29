@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041486363796",
+    "project_id": "labexam2belena",
+    "storage_bucket": "labexam2belena.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041486363796:android:d311aa13d47f06454fc881",
+        "android_client_info": {
+          "package_name": "com.example.foodlist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mn7lnBQ8_QlEjcOL7GkCLPaXLh3Q56w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
